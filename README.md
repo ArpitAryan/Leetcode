@@ -10,6 +10,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | [0066-plus-one](https://github.com/ArpitAryan/Leetcode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ArpitAryan/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ArpitAryan/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ArpitAryan/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ArpitAryan/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ArpitAryan/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ArpitAryan/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
 |  |
 | ------- |
