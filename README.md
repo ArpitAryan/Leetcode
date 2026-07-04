@@ -33,5 +33,14 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/ArpitAryan/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ArpitAryan/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/ArpitAryan/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/ArpitAryan/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
