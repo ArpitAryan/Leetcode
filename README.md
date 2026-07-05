@@ -11,6 +11,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ArpitAryan/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ArpitAryan/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ArpitAryan/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1301-number-of-paths-with-max-score](https://github.com/ArpitAryan/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 ## String
 |  |
 | ------- |
@@ -43,4 +44,12 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/ArpitAryan/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/ArpitAryan/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/ArpitAryan/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
