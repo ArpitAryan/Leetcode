@@ -19,6 +19,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ArpitAryan/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ArpitAryan/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1021-remove-outermost-parentheses](https://github.com/ArpitAryan/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -64,4 +65,8 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 |  |
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/ArpitAryan/Leetcode/tree/master/3467-transform-array-by-parity) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ArpitAryan/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
