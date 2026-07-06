@@ -47,6 +47,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/ArpitAryan/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0328-odd-even-linked-list](https://github.com/ArpitAryan/Leetcode/tree/master/0328-odd-even-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
