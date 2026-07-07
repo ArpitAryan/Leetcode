@@ -12,6 +12,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ArpitAryan/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ArpitAryan/Leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ArpitAryan/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1051-height-checker](https://github.com/ArpitAryan/Leetcode/tree/master/1051-height-checker) |
 | [1301-number-of-paths-with-max-score](https://github.com/ArpitAryan/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3467-transform-array-by-parity](https://github.com/ArpitAryan/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## String
@@ -60,6 +61,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 ## Sorting
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/ArpitAryan/Leetcode/tree/master/1051-height-checker) |
 | [3467-transform-array-by-parity](https://github.com/ArpitAryan/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
@@ -69,4 +71,8 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/ArpitAryan/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ArpitAryan/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
