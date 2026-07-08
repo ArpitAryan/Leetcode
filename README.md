@@ -46,6 +46,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | [0142-linked-list-cycle-ii](https://github.com/ArpitAryan/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ArpitAryan/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ArpitAryan/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ArpitAryan/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | [0142-linked-list-cycle-ii](https://github.com/ArpitAryan/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ArpitAryan/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/ArpitAryan/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ArpitAryan/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +81,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/ArpitAryan/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ArpitAryan/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting Sort
 |  |
 | ------- |
