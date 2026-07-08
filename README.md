@@ -22,6 +22,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | [0014-longest-common-prefix](https://github.com/ArpitAryan/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ArpitAryan/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1021-remove-outermost-parentheses](https://github.com/ArpitAryan/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/ArpitAryan/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -37,6 +38,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ArpitAryan/Leetcode/tree/master/0066-plus-one) |
+| [1903-largest-odd-number-in-string](https://github.com/ArpitAryan/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ArpitAryan/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
@@ -90,4 +92,8 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArpitAryan/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/ArpitAryan/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
