@@ -6,6 +6,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ArpitAryan/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ArpitAryan/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/ArpitAryan/Leetcode/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ArpitAryan/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -46,6 +47,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ArpitAryan/Leetcode/tree/master/0011-container-with-most-water) |
 | [0142-linked-list-cycle-ii](https://github.com/ArpitAryan/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ArpitAryan/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArpitAryan/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -106,5 +108,6 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ArpitAryan/Leetcode/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/ArpitAryan/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
