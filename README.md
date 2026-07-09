@@ -20,6 +20,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ArpitAryan/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/ArpitAryan/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ArpitAryan/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1021-remove-outermost-parentheses](https://github.com/ArpitAryan/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/ArpitAryan/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -52,6 +53,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/ArpitAryan/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ArpitAryan/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/ArpitAryan/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Linked List
 |  |
 | ------- |
