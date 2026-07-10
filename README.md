@@ -24,6 +24,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | [0014-longest-common-prefix](https://github.com/ArpitAryan/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/ArpitAryan/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ArpitAryan/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0796-rotate-string](https://github.com/ArpitAryan/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ArpitAryan/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/ArpitAryan/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -110,4 +111,8 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | ------- |
 | [0011-container-with-most-water](https://github.com/ArpitAryan/Leetcode/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/ArpitAryan/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ArpitAryan/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
