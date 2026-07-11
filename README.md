@@ -24,6 +24,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | [0014-longest-common-prefix](https://github.com/ArpitAryan/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/ArpitAryan/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ArpitAryan/Leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/ArpitAryan/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ArpitAryan/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/ArpitAryan/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ArpitAryan/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -62,6 +63,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | [0160-intersection-of-two-linked-lists](https://github.com/ArpitAryan/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/ArpitAryan/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ArpitAryan/Leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/ArpitAryan/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -82,11 +84,13 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArpitAryan/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ArpitAryan/Leetcode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/ArpitAryan/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1051-height-checker](https://github.com/ArpitAryan/Leetcode/tree/master/1051-height-checker) |
 | [3467-transform-array-by-parity](https://github.com/ArpitAryan/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ArpitAryan/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3467-transform-array-by-parity](https://github.com/ArpitAryan/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Stack
 |  |
@@ -105,6 +109,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArpitAryan/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/ArpitAryan/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
@@ -118,4 +123,8 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ArpitAryan/Leetcode/tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ArpitAryan/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
