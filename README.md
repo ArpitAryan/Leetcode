@@ -71,6 +71,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | [0142-linked-list-cycle-ii](https://github.com/ArpitAryan/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ArpitAryan/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/ArpitAryan/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0707-design-linked-list](https://github.com/ArpitAryan/Leetcode/tree/master/0707-design-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ArpitAryan/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
@@ -129,4 +130,8 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ArpitAryan/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/ArpitAryan/Leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
