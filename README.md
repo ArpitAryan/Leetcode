@@ -59,6 +59,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | [0160-intersection-of-two-linked-lists](https://github.com/ArpitAryan/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArpitAryan/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ArpitAryan/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ArpitAryan/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ArpitAryan/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
 |  |
@@ -75,6 +76,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | [0160-intersection-of-two-linked-lists](https://github.com/ArpitAryan/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/ArpitAryan/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/ArpitAryan/Leetcode/tree/master/0707-design-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ArpitAryan/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ArpitAryan/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Dynamic Programming
 |  |
