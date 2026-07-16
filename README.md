@@ -56,6 +56,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | ------- |
 | [0011-container-with-most-water](https://github.com/ArpitAryan/Leetcode/tree/master/0011-container-with-most-water) |
 | [0142-linked-list-cycle-ii](https://github.com/ArpitAryan/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ArpitAryan/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ArpitAryan/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArpitAryan/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ArpitAryan/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -73,6 +74,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/ArpitAryan/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ArpitAryan/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ArpitAryan/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/ArpitAryan/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/ArpitAryan/Leetcode/tree/master/0707-design-linked-list) |
@@ -89,6 +91,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ArpitAryan/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArpitAryan/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ArpitAryan/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ArpitAryan/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -112,6 +115,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ArpitAryan/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArpitAryan/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -163,4 +167,8 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ArpitAryan/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ArpitAryan/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
