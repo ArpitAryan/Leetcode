@@ -144,6 +144,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ArpitAryan/Leetcode/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/ArpitAryan/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -152,10 +153,12 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ArpitAryan/Leetcode/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/ArpitAryan/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ArpitAryan/Leetcode/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/ArpitAryan/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 ## Number Theory
 |  |
 | ------- |
