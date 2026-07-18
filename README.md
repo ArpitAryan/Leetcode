@@ -18,6 +18,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | [1046-last-stone-weight](https://github.com/ArpitAryan/Leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/ArpitAryan/Leetcode/tree/master/1051-height-checker) |
 | [1301-number-of-paths-with-max-score](https://github.com/ArpitAryan/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ArpitAryan/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3467-transform-array-by-parity](https://github.com/ArpitAryan/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## String
 |  |
@@ -49,6 +50,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | ------- |
 | [0066-plus-one](https://github.com/ArpitAryan/Leetcode/tree/master/0066-plus-one) |
 | [1903-largest-odd-number-in-string](https://github.com/ArpitAryan/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ArpitAryan/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ArpitAryan/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ArpitAryan/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
@@ -166,6 +168,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ArpitAryan/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ArpitAryan/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Merge Sort
 |  |
