@@ -75,6 +75,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/ArpitAryan/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/ArpitAryan/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/ArpitAryan/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ArpitAryan/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -174,4 +175,8 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ArpitAryan/Leetcode/tree/master/0148-sort-list) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/ArpitAryan/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
