@@ -21,6 +21,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | [1301-number-of-paths-with-max-score](https://github.com/ArpitAryan/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ArpitAryan/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3467-transform-array-by-parity](https://github.com/ArpitAryan/Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/ArpitAryan/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -77,6 +78,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | [0242-valid-anagram](https://github.com/ArpitAryan/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ArpitAryan/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/ArpitAryan/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [3731-find-missing-elements](https://github.com/ArpitAryan/Leetcode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -107,6 +109,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | [0692-top-k-frequent-words](https://github.com/ArpitAryan/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1051-height-checker](https://github.com/ArpitAryan/Leetcode/tree/master/1051-height-checker) |
 | [3467-transform-array-by-parity](https://github.com/ArpitAryan/Leetcode/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/ArpitAryan/Leetcode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
