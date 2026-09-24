@@ -53,6 +53,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ArpitAryan/Leetcode/tree/master/0066-plus-one) |
+| [0507-perfect-number](https://github.com/ArpitAryan/Leetcode/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/ArpitAryan/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ArpitAryan/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ArpitAryan/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
