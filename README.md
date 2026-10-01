@@ -13,6 +13,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ArpitAryan/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ArpitAryan/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArpitAryan/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0204-count-primes](https://github.com/ArpitAryan/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArpitAryan/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ArpitAryan/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0692-top-k-frequent-words](https://github.com/ArpitAryan/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -53,6 +54,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ArpitAryan/Leetcode/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/ArpitAryan/Leetcode/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/ArpitAryan/Leetcode/tree/master/0507-perfect-number) |
 | [1903-largest-odd-number-in-string](https://github.com/ArpitAryan/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ArpitAryan/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -183,6 +185,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ArpitAryan/Leetcode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ArpitAryan/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ArpitAryan/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Merge Sort
@@ -193,4 +196,20 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ArpitAryan/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ArpitAryan/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ArpitAryan/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ArpitAryan/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ArpitAryan/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
