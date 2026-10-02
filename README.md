@@ -16,6 +16,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | [0189-rotate-array](https://github.com/ArpitAryan/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ArpitAryan/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArpitAryan/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/ArpitAryan/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ArpitAryan/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ArpitAryan/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0692-top-k-frequent-words](https://github.com/ArpitAryan/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -73,6 +74,7 @@ My LeetCode journey in Java. Featuring solutions to coding interview problems wi
 | [0160-intersection-of-two-linked-lists](https://github.com/ArpitAryan/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArpitAryan/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ArpitAryan/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ArpitAryan/Leetcode/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ArpitAryan/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ArpitAryan/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ArpitAryan/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
